@@ -12,7 +12,7 @@ int main() {
   int userinputUSDtoRMB; // User inputted for USD to RMB;
   int userinputOunce; // User inputted for Ounce;
   int userinputGram; // User inputted for Gram;
-  int fahrenheitToCelcius; // variable that stores the converted F->C;
+  int fahrenheitToCelsius; // variable that stores the converted F->C;
   int celsiusToFahrenheit; // variable that stores the converted C->F;
   float USDtoEURO ; // varaible that stores the converted USD->EURO;
   float USDtoJPY; // stores the converted USD->JPY;
