@@ -35,7 +35,7 @@ int main() {
       if(tempChoice == 1){
           printf("Please enter the Fahrenheit degree: \n");
           scanf("%d",&userinputF);
-          fahrenheitToCelcius =  ((userinputF-32) * (5.0/9.0));
+          fahrenheitToCelsius =  ((userinputF-32) * (5.0/9.0));
           printf("Celsius: %d",fahrenheitToCelsius);
       }
       else if(tempChoice == 2){
